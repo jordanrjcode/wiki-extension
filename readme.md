@@ -32,7 +32,7 @@ _Luego le das click a la opcion de cargar descomprimida y seleccionas la carpeta
 Esta es la carpeta que descargaste si haces todo bien te aparecera la extension.
 ```
 
-![Imagen-del-navegador](https://repository-images.githubusercontent.com/285597164/7980b600-d7cc-11ea-954d-3d7f01f529b1'))
+![Imagen-del-navegador](https://repository-images.githubusercontent.com/285597164/7980b600-d7cc-11ea-954d-3d7f01f529b1))
 
 ## Ejecutando las pruebas ⚙️
 
