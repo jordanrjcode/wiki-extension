@@ -1,0 +1,55 @@
+body {
+  width: 600px;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+}
+#buscar {
+  padding: 8px 8px;
+  font-size: 1.1em;
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  text-transform: uppercase;
+  -webkit-appearance: none;
+  box-sizing: border-box;
+}
+button {
+  box-sizing: border-box;
+  width: 80%;
+  margin: 15px auto;
+  display: block;
+  background: steelblue;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 15px;
+  outline: none;
+  border: none;
+  text-transform: uppercase;
+  -webkit-appearance: none;
+}
+form {
+  width: 100%;
+}
+#root {
+  width: 100%;
+}
+#root > div {
+  width: 80%;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 10px auto;
+  text-align: center;
+  border: 1px solid slateblue;
+  background: lightblue;
+}
+#root > div > h2 {
+  font-size: 1.3em;
+}
+
+#root > div > p {
+  font-size: 1.2em;
+}
