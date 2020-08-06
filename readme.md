@@ -1,4 +1,4 @@
-# Título del Proyecto
+# WIKI
 
 _Wiki es una estension que te permite buscar informacion sin salir del foco de la pagina actualmente se la puede mejorar para que traiga mas informacion no esta confirmada que funcione pero hay que hacer el intento_
 
