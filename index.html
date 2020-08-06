@@ -3,16 +3,33 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+    />
     <link rel="stylesheet" href="index.css" />
     <title>Hola</title>
   </head>
   <body>
     <h1>Wiki</h1>
     <form>
-      <input type="text" id="buscar" />
-      <button id="button" type="submit">buscar</button>
+      <input type="text" autocomplete="off" id="buscar" />
+      <button id="button" class="animate__animated" type="submit">
+        buscar
+      </button>
     </form>
+    <div class="spinner" id="spinner" style="display: none;">
+      <div class="rect1"></div>
+      <div class="rect2"></div>
+      <div class="rect3"></div>
+      <div class="rect4"></div>
+      <div class="rect5"></div>
+    </div>
     <div id="root"></div>
+
+    <span class="autor animate__animated animate__pulse animate__infinite"
+      >Created by JRJU</span
+    >
     <script src="app.js"></script>
   </body>
 </html>
