@@ -125,3 +125,14 @@ form {
   text-transform: uppercase;
   font-weight: bold;
 }
+
+.github {
+  margin: 10px 0;
+  display: block;
+  color: gray;
+  text-align: center;
+  font-size: 4em;
+}
+.github:hover {
+  color: black;
+}
